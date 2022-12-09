@@ -15,8 +15,16 @@
     color: var(--light);
 }
 
+.text-primary{
+    background-color: var(--primary);
+}
+
 .bg-primary{
     background-color: var(--primary);
+}
+
+.bg-secundary{
+    background-color: var(--secundary);
 }
 
 .text-secundary{
@@ -25,6 +33,14 @@
 
 .text-center{
     text-align: center;
+}
+
+.padding{
+    padding: 8px;
+}
+
+.margin{
+    margin: 10px;
 }
 
 .text-right{
@@ -37,4 +53,8 @@
  
 .bg-info{
     background-color: var(--info);
+}
+
+.text-white{
+    color: white;
 }
